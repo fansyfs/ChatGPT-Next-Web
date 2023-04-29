@@ -11,7 +11,7 @@ const es: LocaleType = {
     ChatItemCount: (count: number) => `${count} mensajes`,
   },
   Chat: {
-    SubTitle: (count: number) => `${count} mensajes con ChatGPT`,
+    SubTitle: (count: number) => `${count} mensajes con Hi123.ai`,
     Actions: {
       ChatList: "Ir a la lista de chats",
       CompressedHistory: "Historial de memoria comprimido",
@@ -41,7 +41,7 @@ const es: LocaleType = {
     Copy: "Copiar todo",
     Download: "Descargar",
     MessageFromYou: "Mensaje de ti",
-    MessageFromChatGPT: "Mensaje de ChatGPT",
+    MessageFromChatGPT: "Mensaje de Hi123.ai",
   },
   Memory: {
     Title: "Historial de memoria",
